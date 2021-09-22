@@ -1,8 +1,8 @@
 # Tags para textos
-###### Utilizar <p> e </p> para conteúdos de texto mais densos como parágrafos.
+###### Utilizar parâmetro P para conteúdos de texto mais densos como parágrafos.
 
 #Tags para links
-###### Utilizar <a> e </a> para links de páginas ou de email
+###### Utilizar parâmetro A para links de páginas ou de email
  - HREF= "Conteúdo" indica o item para onde o link está apontando
  - TARGET="Conteúdo" indica como será aberto
  - Prefixo de telefone: TEL
